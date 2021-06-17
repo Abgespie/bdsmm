@@ -1721,6 +1721,9 @@ main {
     }
 }
 @media (max-width: 389px) {
+    .arrow-mob {
+        left: 95%;
+    }
     .consultation-free-sign-up-button {
         margin-left: -10px;
     }

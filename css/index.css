@@ -1075,6 +1075,9 @@ main {
     p br {
         display: none;
     }
+    .mob {
+        display: inline;
+    }
 }
 
 /* form */
@@ -1710,6 +1713,9 @@ main {
     .consultation-free-const {
         margin-top: 320px;
     }
+    .consultation-free-const__desc {
+        margin-right: 20px;
+    }
 }
 @media (max-width: 439px) {
     .consultation-free-sign-up-button--content {
@@ -1718,6 +1724,9 @@ main {
     }
     .consultation-free-const {
         margin-top: 320px;
+    }
+    .consultation-free-const__desc {
+        margin-right: 10px;
     }
 }
 @media (max-width: 389px) {
